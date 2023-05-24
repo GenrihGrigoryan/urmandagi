@@ -225,7 +225,6 @@ ul {
 }
 
 li {
-    list-style: disclosure-closed;
     list-style-position: inside;
     margin:0 0 5px 0;
 }
